@@ -27,7 +27,7 @@ date: 2024-01-01
     <div class="absolute w-3 h-3 bg-accent rounded-full top-1.5 transition-all duration-300 group-hover:scale-125 group-hover:bg-accent" style="left: -1.95rem; box-shadow: 0 0 0 4px var(--accent-mute);"></div>
     <div class="flex flex-col sm:flex-row sm:items-baseline justify-between mb-1">
       <h4 class="text-lg font-bold text-gray-900 dark:text-gray-100 m-0" style="margin: 0 !important;">Research Intern</h4>
-      <span class="text-sm font-medium text-accent">May 2025 - Aug 2025</span>
+      <span class="text-sm font-medium text-accent">May 2025 - Dec 2025</span>
     </div>
     <div class="text-sm font-semibold text-gray-500 dark:text-gray-400 mb-3">ARMS Lab, IIT Bombay | Guide: Prof. Leena Vachhani</div>
     <ul class="list-disc pl-5 space-y-1.5 text-[0.95rem] text-gray-700 dark:text-gray-300">
