@@ -3,13 +3,13 @@ title = "About"
 +++
 
 <div class="text-[15px] sm:text-[1.1rem] leading-[1.7] mb-8">
-Hi, I am <strong>Utsab</strong>. I am a fourth-year undergraduate student at <strong>IIT Kharagpur</strong> pursuing a Dual-Degree (B.Tech + M.Tech) in Electronics and Electrical Communication Engineering, with my Master's specialization in Vision and Intelligent Systems.
+Hi, I am <strong>Utsab</strong>. I am a fourth-year undergraduate student at <strong>IIT Kharagpur</strong> pursuing a Dual-Degree (B.Tech + M.Tech) in Electronics and Electrical Communication Engineering, with my Master's specialization in Vision and Intelligent Systems. I am also currently working with Prof. Subhadip Mukherjee at IITKGP and VAL, IISc Bangalore.
 <br><br>
 <!-- I am currently the <strong>Head of Vision at AGV.AI</strong>, a UG research group under Prof. Debashish Chakravarty at IIT Kharagpur, working on autonomous vehicles and robotic systems. -->
 <!-- I am currently a summer research intern at the Vision and AI Lab, IISc Bangalore working on the data-efficient learning for vision datasets.  -->
-My research interests mainly lie in the domain of deep learning and optimisation theory, computer vision and robotics especially works with strong theoritical foundations. I also find certain areas of high-performance computing quite fascinating.
+My research interests mainly lie in the domain of learning theory and generative modelling. I am also currently exploring opportunities in computer vision and robotics, two areas which I find particularly exciting and would love to work in.
 <br><br>
-<em>Always open to good learning opportunities! Feel free to reach out to me via <a href="mailto:utsabkaran2010@gmail.com" style="font-weight: 600;">Email</a> or check out my <a href="/resume_ukaran.pdf" style="font-weight: 600;">CV/Resume</a>.</em>
+<em>Always open to good learning opportunities! Feel free to reach out to me via <a href="mailto:utsabkaran2010@gmail.com" style="font-weight: 600;">email</a> or check out my <a href="/resume_ukaran.pdf" style="font-weight: 600;">CV/Resume</a>.</em>
 </div>
 
 ---

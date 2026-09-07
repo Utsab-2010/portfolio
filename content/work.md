@@ -42,12 +42,12 @@ date: 2024-01-01
   <div class="relative group">
     <div class="absolute w-3 h-3 bg-accent rounded-full top-1.5 transition-all duration-300 group-hover:scale-125 group-hover:bg-accent" style="left: -1.95rem; box-shadow: 0 0 0 4px var(--accent-mute);"></div>
     <div class="flex flex-col sm:flex-row sm:items-baseline justify-between mb-1">
-      <h4 class="text-lg font-bold text-gray-900 dark:text-gray-100 m-0" style="margin: 0 !important;">Vision Head</h4>
+      <h4 class="text-lg font-bold text-gray-900 dark:text-gray-100 m-0" style="margin: 0 !important;">Undergraduate Researcher</h4>
       <span class="text-sm font-medium text-accent">April 2024 - Present</span>
     </div>
     <div class="text-sm font-semibold text-gray-500 dark:text-gray-400 mb-3">AGV.AI | Guide: Prof. Debashish Chakravarty</div>
     <ul class="list-disc pl-5 space-y-1.5 text-[0.95rem] text-gray-700 dark:text-gray-300">
-      <li>Leading a the vision vertical of an UG research group working on robotics and autonomous vehicles.</li>
+      <li>Served at the Head of Vision(26-27), leading the vision vertical of a group of UG researchers working on robotics and autonomous vehicles.</li>
       <li>Lead a team to compete at the Roboracer Sim Racing League @ CDC-TF 2026 where we secured 7th place globally.</li>
       <li>Worked on Monocular Depth Estimation and Semantic Segmentation for Edge AI devices.</li>
       <li>Implemented planning and control pipelines for F1tenth racing simulations.</li>
