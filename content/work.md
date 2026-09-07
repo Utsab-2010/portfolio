@@ -47,7 +47,7 @@ date: 2024-01-01
     </div>
     <div class="text-sm font-semibold text-gray-500 dark:text-gray-400 mb-3">AGV.AI | Guide: Prof. Debashish Chakravarty</div>
     <ul class="list-disc pl-5 space-y-1.5 text-[0.95rem] text-gray-700 dark:text-gray-300">
-      <li>Served at the Head of Vision(26-27), leading the vision vertical of a group of UG researchers working on robotics and autonomous vehicles.</li>
+      <li>Served as the Head of Vision(2026-27), leading the vision vertical of a group of UG researchers working on robotics and autonomous vehicles.</li>
       <li>Lead a team to compete at the Roboracer Sim Racing League @ CDC-TF 2026 where we secured 7th place globally.</li>
       <li>Worked on Monocular Depth Estimation and Semantic Segmentation for Edge AI devices.</li>
       <li>Implemented planning and control pipelines for F1tenth racing simulations.</li>
